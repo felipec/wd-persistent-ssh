@@ -1,0 +1,6 @@
+Package: persistent-ssh
+Version: 1.00
+AddonShowName: Persistent SSH
+Packager: Felipe Contreras
+Email: felipe.contreras@gmail.com
+Description: Ensures .ssh directory is kept between reboots.

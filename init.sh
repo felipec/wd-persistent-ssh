@@ -1,3 +1,3 @@
 #!/bin/sh
 
-mv $1/.ssh /home/root
+cp -a $1/.ssh /home/root

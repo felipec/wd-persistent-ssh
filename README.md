@@ -3,3 +3,5 @@ configured a `.ssh` directory correctly (so no password is necessary), such conf
 on a reboot.
 
 This simple app backups the `.ssh` folder, and then restores it.
+
+[Download](https://github.com/felipec/wd-persistent-ssh/raw/master/persistent-ssh.bin).
